@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+body{
+    color: black;
+    font-family: 'Roboto Mono';
+    font-size: 100%;
+    overflow: hidden;
+}
+header a{
+    text-decoration: none;
+}
+header {
+    padding: 0 20px;
+    background-color: whitesmoke;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+  width: 500px;
+}
+.search {
+    font-weight: bold;
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+}
+.brand {
+    display: flex;
+    align-items: center;
+    
+}
+.brand a{
+    color: purple;
+    font-size: 2rem;
+    margin-left: 20px;
+}
+.brand > img{
+    height: 100%
+
+}
+
+
+ul{
+    list-style: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+ul a {
+    color: black;
+    
+}
+ul li {
+    padding: 5px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+ul li:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.text-and-buttons {
+    display: flex;
+    flex-direction: column;
+   justify-content: space-between;
+   padding-top: 5%;
+   padding-left: 4.5%;
+   
+   
+  }
+
+
+  .main-heading {
+    
+    color: rgba(26, 26, 26, 1);
+    font-family: Roboto Condensed;
+    font-weight: Medium;
+    font-size: 64px;
+    opacity: 1;
+    text-align: left;
+    width: 50%;
+    height: 10vh;
+  }
+
+
+.main-text {
+   
+    color: rgba(26, 26, 26, 1);
+    font-family: Roboto Mono;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+    height: 15vh;
+    width: 35vw;
+  }
+
+.buttons {
+    display: flex;
+    
+}
+
+.ios {
+    width: 10vw;
+}
+
+.google {
+    width: 10vw;
+}
+
+
+
+  .iphone-container {
+      display: flex;
+      width: 100%;
+      flex-direction: row-reverse;
+  }
+
+
+
+
+  
