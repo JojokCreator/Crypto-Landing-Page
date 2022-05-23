@@ -1,15 +1,26 @@
-https://github.com/SchoolOfCode/w3d5_landing-page-hackathon-joe-afam# Hackathon - Use your UI/UX skills to design a business landing page
+# Crypto currency landing site
 
-For this hackathon, you'll be using the business idea that you brainstormed during the mindset session.
+Designing a business landing page project - UI/UX skills workshop week 3 School of Code Bootcamp
 
-You'll need to go through the UI/UX process we've been examining this week, including:
+## Getting Started 
 
-- User stories and at least one user persona
-- User journey flow diagram (you can use the [draw.io extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) in VS Code to make this inside the repo)
-- Low- and high-fidelity wireframes (using tools like [Miro](https://miro.com/app/) and/or [Figma](https://www.figma.com/))
-- [Color scheme](https://coolors.co/) - remember, you can create CSS variables to manage things like colors easily!
-- A plan that breaks down how you'll code before you code as usual, using computational thinking to plan the logic of your page before you start to build (this plan should include how you're going to organize your CSS in a way that's consistent, readable, and maintainable)
+Open the page [Here](https://jojokcreator.github.io/Crypto-Landing-Page) or clone/download and open the index.html in a web browser.
 
-Remember to iterate - first, get your users in mind and design looking good. Then build an MVP version - what is the [quickest way you can deliver value](https://www.planview.com/resources/articles/lean-methodology/) and start getting insight? - and then, if you have time, you can consider adding more features.
+## What we did - planning
 
-At the end of the day, when you present what you've created, be sure to also show your planning process and how you crafted your UX and UI.
+User stories and creating [user personas pdf](https://github.com/JojokCreator/Crypto-Landing-Page/blob/main/user-persona.pdf)
+
+[User journey flow diagram](https://github.com/JojokCreator/Crypto-Landing-Page/blob/main/UserFlow.drawio)
+
+Low- and high-fidelity wireframes (using tools like [Miro](https://miro.com/app/) and/or [Figma](https://www.figma.com/))
+
+[Lo-Fi Wireframe pdf](https://github.com/JojokCreator/Crypto-Landing-Page/blob/main/miro-lowfid-mockup.pdf)
+
+### Hi-Fi Mockup
+![Site View](cryptosite.png)
+
+
+# Implimentation
+Although we were limited on time ( the whole project took one day) we did manage to get some sort of a MVP [Here](https://jojokcreator.github.io/Crypto-Landing-Page) the page initially looks ok but is not responsive to smaller screen types and needs more time. 
+ 
+
